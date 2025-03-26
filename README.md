@@ -1,13 +1,12 @@
 # 👋 Hey there! I'm **Ashvin** 🚀  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&widt h=435&lines=Hey+there!+I'm+Daksh+Saini.;Robotics+and+Web+Dev+Enthusiast.;Open+Source+Contributor.;Balancing+laziness+and+building+something+awesome!)](https://git.io/typing-svg)
  
  
 ---
  
 ### 🧑‍💻 **About Me**  
-- 🔭 **Passionate About**: Robotics 🤖 |  WebDevelopment  🌐 | Open  Source 💻   
-- 🌱 **Currently Learning**: Advanced Python Scripting | Javascript | Web Dev Frameworks |  🐍  
+- 🔭 **Passionate About**: competitive programming 🤖 |  WebDevelopment  🌐 | Open  Source 💻   
+- 🌱 **Currently Learning**: Advanced Python Scripting | mongo DB | Web Dev Frameworks |  🐍  
 - 💡 **Looking to Collaborate On**: Open-source robotics projects, hackathons, and innovation challenges.  
 - 🎯 **Fun Fact**: I balance laziness ☕ with building something **awesome** 🚀.   
  
@@ -26,8 +25,8 @@
 
 ### 🌐 **Let's  Connect**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daksh-saini-70a68830a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/mrgear111)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ashvin-tiwari)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)]([https://github.com/mrgear111](https://github.com/ashvin2005))  
 
 ---
 ### 📊 **My GitHub Stats**
