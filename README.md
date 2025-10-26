@@ -22,6 +22,12 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ashvin2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+## 🧠 Holopin Badges
+[![An image of @ashvin2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashvin2005)](https://holopin.io/@ashvin2005)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=ashvin2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
