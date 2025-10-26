@@ -3,7 +3,7 @@
 
 ---
 
-# 💫 About Me:
+# 💫 About Me
 🎓 B.Tech in CS & AI  
 🤖 Passionate about AI & Machine Learning  
 💻 Web & Mobile Development enthusiast (React, React Native, Firebase)  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 <p align="center">
   <a href="https://instagram.com/ashnotvin" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ashvin-tiwari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
@@ -21,9 +21,9 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <p align="center">
-  
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,10 +48,10 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashvin2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ashvin2005&theme=dark&hide_border=false" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashvin2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150px"/>
+  <img src="https://streak-stats.demolab.com?user=ashvin2005&theme=dark&hide_border=false" height="150px"/>
 </p>
 
 <p align="center">
@@ -60,21 +60,21 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashvin2005&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashvin2005&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
 </p>
 
 ---
 
-## ✍️ Random Dev Quote
+<h2 align="center">✍️ Random Dev Quote</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote"/>
 </p>
 
 ---
 
-## 🧠 Holopin Badges
+<h2 align="center">🧠 Holopin Badges</h2>
 <p align="center">
   <a href="https://holopin.io/@ashvin2005">
     <img src="https://holopin.me/ashvin2005" alt="@ashvin2005's Holopin badges"/>
@@ -83,7 +83,7 @@
 
 ---
 
-### 🔝 Top Contributed Repos
+<h2 align="center">🔝 Top Contributed Repos</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ashvin2005&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
@@ -96,4 +96,3 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
