@@ -60,13 +60,6 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashvin2005&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
-</p>
-
----
-
 <h2 align="center">✍️ Random Dev Quote</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote"/>
@@ -86,12 +79,6 @@
 <h2 align="center">🔝 Top Contributed Repos</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ashvin2005&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ashvin2005&icon=0&color=0" alt="visitor count"/>
 </p>
 
 ---
